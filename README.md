@@ -1,10 +1,10 @@
-# baekjoon-algorithm-study
+# algorithm-study
 
 _with CodeStates 40th 스터디 카페_
 
 <br/>
 
-> 이 저장소는 알고리즘 소모임 3조의 `백준 알고리즘 스터디`를 위한 공간입니다.<br/>
+> 이 저장소는 알고리즘 소모임 3조의 `알고리즘 스터디`를 위한 공간입니다.<br/>
 
 <br/>
 
@@ -50,7 +50,7 @@ _with CodeStates 40th 스터디 카페_
 4. n주차 폴더 하위에 자신의 이름으로 폴더를 생성하고 폴더 내에 소스코드를 작성한다. (`🚫 타인의 소스를 절대로!! 수정하지 않습니다.`)
 
    ```palintext
-   예) 1주차 > 김진희 > blahblah.js
+   예) baekjoon-online-judge > 1주차 > 김진희 > blahblah.js
    ```
 
 5. 작성된 내용을 본인의 원격 저장소로 push 한다.
@@ -71,3 +71,9 @@ _with CodeStates 40th 스터디 카페_
 7. 자유롭게 코드리뷰를 한다.
 
    - `방식, 기간에 대한 논의 필요`
+
+8. 중앙 저장소에 있는 다른 기여자의 소스코드를 본인 원격 저장소에 가져오고 싶은 경우
+
+   ```bash
+   $ git pull upstream main
+   ```
