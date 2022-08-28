@@ -4,4 +4,8 @@ let input = fs.readFileSync(filePath).toString().trim().split(" ");
 
 const [a, b] = input.map((ele) => Number(ele));
 
-console.log(a / b);
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(Math.floor(a / b));
+console.log(a % b);
