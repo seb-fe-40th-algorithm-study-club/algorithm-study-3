@@ -96,6 +96,7 @@ _with CodeStates 40th 스터디 카페_
    ```bash
    $ git checkout main
    $ git pull upstream main
+   $ git push origin main
    ```
 
    - 이후 4번 과정부터 반복하여 진행
