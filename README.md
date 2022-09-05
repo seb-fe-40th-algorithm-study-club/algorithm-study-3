@@ -23,6 +23,7 @@ _with CodeStates 40th 스터디 카페_
 <br/>
 
 ## ✅ 참여 방법
+> 1 ~ 3 은 한 번만, 4 ~ 9 과정을 반복하여 진행합니다.
 
 1. 중앙 저장소를 나의 깃허브 계정에 fork 한다.
 2. 로컬 저장소에 본인의 원격 저장소를 clone 한다.
@@ -95,6 +96,7 @@ _with CodeStates 40th 스터디 카페_
    ```bash
    $ git checkout main
    $ git pull upstream main
+   $ git push origin main
    ```
 
    - 이후 4번 과정부터 반복하여 진행
