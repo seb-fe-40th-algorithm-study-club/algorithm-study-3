@@ -14,7 +14,7 @@ rl.on("line", function (line) {
   process.exit();
 });
 
-const solution = (input, memo) => {
+const solution = (input) => {
   const [amount, num, ...rest] = input.map((ele, idx) => {
     switch (idx) {
       case 0:
