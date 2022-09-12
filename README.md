@@ -4,8 +4,8 @@ _with CodeStates 40th 스터디 카페_
 
 <br/>
 
-> 이 저장소는 알고리즘 소모임 3조의 **알고리즘 스터디**를 위한 공간입니다.
-> [레퍼런스 Repo](https://github.com/HyeonWooGa/algorhithm__40th-study-cafe)
+> 이 저장소는 알고리즘 소모임 3조의 **알고리즘 스터디**를 위한 공간입니다.<br/>
+> [레퍼런스 Repo](https://github.com/HyeonWooGa/algorhithm__40th-study-cafe)<br/>
 
 <br/>
 
@@ -88,8 +88,6 @@ _with CodeStates 40th 스터디 카페_
      - `PR 컨벤션에 대해서도 생각해 봅시다!`
 
 8. 자유롭게 코드리뷰를 한다.
-
-   - `방식, 기간에 대한 논의 필요`
 
 9. PR이 merge된 후 중앙 저장소에 있는 다른 기여자의 소스코드를 본인 원격 저장소에 가져오고 싶은 경우
 
