@@ -110,3 +110,4 @@ _with CodeStates 40th 스터디 카페_
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nada1221)](https://solved.ac/nada1221/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdus9839)](https://solved.ac/tjdus9839/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhui)](https://solved.ac/kimjinhui/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/wanderac/)
