@@ -4,7 +4,8 @@ _with CodeStates 40th 스터디 카페_
 
 <br/>
 
-> 이 저장소는 알고리즘 소모임 3조의 `알고리즘 스터디`를 위한 공간입니다.<br/>
+> 이 저장소는 알고리즘 소모임 3조의 **알고리즘 스터디**를 위한 공간입니다.
+> [레퍼런스 Repo](https://github.com/HyeonWooGa/algorhithm__40th-study-cafe)
 
 <br/>
 
