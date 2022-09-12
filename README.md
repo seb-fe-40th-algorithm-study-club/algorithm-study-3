@@ -100,3 +100,13 @@ _with CodeStates 40th 스터디 카페_
    ```
 
    - 이후 4번 과정부터 반복하여 진행
+
+<br />
+
+<!--백준티어-->
+## 🎖️ Baekjoon Online Judge Tier
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nada1221)](https://solved.ac/nada1221/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdus9839)](https://solved.ac/tjdus9839/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhui)](https://solved.ac/kimjinhui/)
