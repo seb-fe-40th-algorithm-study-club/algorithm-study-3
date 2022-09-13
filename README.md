@@ -1,6 +1,6 @@
 # algorithm-study
 
-_with [CodeStates 40th 스터디 카페](https://github.com/HyeonWooGa/algorhithm__40th-study-cafe)_
+_with CodeStates [40th 스터디 카페](https://github.com/HyeonWooGa/algorhithm__40th-study-cafe)_
 
 <br/>
 
