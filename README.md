@@ -21,7 +21,21 @@ _with CodeStates [40th 스터디 카페](https://github.com/HyeonWooGa/algorhith
 
 <br/>
 
+## ✅ 문제풀이 일정
+
+| 주차  | 날짜                | 단계        | 문제 갯수 |
+| ----- | ------------------- | ----------- | --------- |
+| 1주차 | 22.08.22 - 22.08.28 | 1단계       | 15문제    |
+| 2주차 | 22.08.29 - 22.09.04 | 2단계       | 7문제     |
+| 3주차 | 22.09.05 - 22.09.11 | 3단계       | 13문제    |
+| 4주차 | 22.09.12 - 22.09.18 | 4단계+5단계 | 9문제     |
+| 5주차 | 22.09.19 - 22.09.25 | 6단계       | 10문제    |
+| 6주차 | 22.09.26 - 22.10.02 | 9단계       | 5문제     |
+
+<br/>
+
 ## ✅ 참여 방법
+
 > 1 ~ 3 은 한 번만, 4 ~ 9 과정을 반복하여 진행합니다.
 
 1. 중앙 저장소를 나의 깃허브 계정에 fork 한다.
@@ -101,8 +115,8 @@ _with CodeStates [40th 스터디 카페](https://github.com/HyeonWooGa/algorhith
 <br />
 
 <!--백준티어-->
-## 🎖️ Baekjoon Online Judge Tier
 
+## 🎖️ Baekjoon Online Judge Tier
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nada1221)](https://solved.ac/nada1221/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdus9839)](https://solved.ac/tjdus9839/)
