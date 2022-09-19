@@ -1,28 +1,42 @@
 # algorithm-study
 
-_with CodeStates 40th 스터디 카페_
+_with CodeStates [40th 스터디 카페](https://github.com/HyeonWooGa/algorhithm__40th-study-cafe)_
 
 <br/>
 
-> 이 저장소는 알고리즘 소모임 3조의 `알고리즘 스터디`를 위한 공간입니다.<br/>
+> 이 저장소는 알고리즘 소모임 3조의 **알고리즘 스터디**를 위한 공간입니다.<br/>
 
 <br/>
 
 ## ✅ 스터디 진행 방향
 
 - 매주 금요일 자정까지 정해진 분량의 알고리즘을 풀고 PR(Pull Request)을 남깁니다.
-  - 매주 월요일 알고리즘 소모임 가이드 일정 후 merge 하겠습니다.
-  - `논의 후 수정될 수 있습니다.`
+  - 주말동안 다른 스터디원의 PR 내용을 보고 자유롭게 comment(코드 리뷰)를 남겨주세요!😃
+  - 매주 화요일 전 주 조장이 PR들을 main 브랜치에 merge 합니다.
 - 스터디는
   - 본 저장소(스터디 repository. 이하 <u>**중앙 저장소**</u>)와
   - 각 개인의 계정으로 fork한 원격 저장소(<u>**본인의 원격 저장소**</u>),
   - <u>**로컬 저장소**</u>에서 진행됩니다.
 - 모든 코드 기여자는 각 개인의 **로컬 저장소**에서 개발한 내용을 **본인의 원격 저장소**로 push하고 이 내용을 **중앙 저장소**에 PR합니다.
-- 다른 스터디원의 PR 내용을 보고 자유롭게 comment(코드 리뷰)를 남겨주세요!😃
+
+<br/>
+
+## ✅ 문제풀이 일정
+
+| 주차  | 날짜                | 단계        | 문제 갯수 | 조장   |
+| ----- | ------------------- | ----------- | --------- | ------ |
+| 1주차 | 22.08.22 - 22.08.28 | 1단계       | 15문제    | 김진희 |
+| 2주차 | 22.08.29 - 22.09.04 | 2단계       | 7문제     | 김진희 |
+| 3주차 | 22.09.05 - 22.09.11 | 3단계       | 13문제    | 김서연 |
+| 4주차 | 22.09.12 - 22.09.18 | 4단계+5단계 | 9문제     | 최윤우 |
+| 5주차 | 22.09.19 - 22.09.25 | 6단계       | 10문제    | 고동욱 |
+| 6주차 | 22.09.26 - 22.10.02 | 9단계       | 5문제     | 김예린 |
+| -     | -                   | -           | -         | 서재홍 |
 
 <br/>
 
 ## ✅ 참여 방법
+
 > 1 ~ 3 은 한 번만, 4 ~ 9 과정을 반복하여 진행합니다.
 
 1. 중앙 저장소를 나의 깃허브 계정에 fork 한다.
@@ -89,13 +103,25 @@ _with CodeStates 40th 스터디 카페_
 
 8. 자유롭게 코드리뷰를 한다.
 
-   - `방식, 기간에 대한 논의 필요`
-
 9. PR이 merge된 후 중앙 저장소에 있는 다른 기여자의 소스코드를 본인 원격 저장소에 가져오고 싶은 경우
 
    ```bash
    $ git checkout main
    $ git pull upstream main
+   $ git push origin main
    ```
 
    - 이후 4번 과정부터 반복하여 진행
+
+<br />
+
+<!--백준티어-->
+
+## 🎖️ Baekjoon Online Judge Tier
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nada1221)](https://solved.ac/nada1221/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdus9839)](https://solved.ac/tjdus9839/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggg06141)](https://solved.ac/ggg06141/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhui)](https://solved.ac/kimjinhui/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkwh1133)](https://solved.ac/tkwh1133/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wanderac)](https://solved.ac/wanderac/)
