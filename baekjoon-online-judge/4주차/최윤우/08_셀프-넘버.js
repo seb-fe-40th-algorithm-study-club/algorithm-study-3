@@ -9,5 +9,23 @@ let sum = 0;
 for (let i = 1; i <= 10000; i++) {
     i[0]
 }
-// 못 풀겠다
+// 못 풀겠다 레퍼런스
 
+const notSelfNumbers = new Set();
+
+for (let num = 1; num <= 10000; num++) {
+  notSelfNumbers.add(
+    num +
+      num
+        .toString()
+        .split("")
+        .map(Number)
+        .reduce((acc, cur) => acc + cur, 0)
+  );
+}
+
+for (let num = 1; num <= 10000; num++) {
+  if (!notSelfNumbers.has(num)) {
+    console.log(num);
+  }
+}
