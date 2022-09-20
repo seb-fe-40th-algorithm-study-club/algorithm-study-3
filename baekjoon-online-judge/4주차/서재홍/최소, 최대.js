@@ -5,3 +5,4 @@ let number = input[1].split(" ").map((el) => Number(el));
 
 number.sort((a, b) => a - b);
 console.log(`${number[0]} ${number[count - 1]}`);
+//

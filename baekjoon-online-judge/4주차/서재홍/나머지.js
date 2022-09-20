@@ -7,3 +7,4 @@ const input = require("fs")
 const count = new Set(input.map((x) => x % 42)).size;
 
 console.log(count);
+//

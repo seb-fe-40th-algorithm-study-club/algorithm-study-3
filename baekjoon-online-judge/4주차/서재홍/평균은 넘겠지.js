@@ -20,4 +20,4 @@ for (let i = 1; i <= num; i++) {
   let result = ((count / num2) * 100).toFixed(3);
 
   console.log(result + "%");
-}
+} //
