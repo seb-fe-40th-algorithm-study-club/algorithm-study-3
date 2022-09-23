@@ -1,11 +1,11 @@
-let input = +require('fs').readFileSync('/dev/stdin').toString().trim();
+let input = +require("fs").readFileSync("/dev/stdin").toString().trim();
 
 const n = +input;
 
 const arr = new Array(n + 1).fill(true);
 
 for (let i = 0; i < n + 1; i++) {
-  const numList = String(i).split('');
+  const numList = String(i).split("");
   if (numList.length < 3) {
     continue;
   } else {
