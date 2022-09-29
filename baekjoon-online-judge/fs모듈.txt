@@ -1,0 +1,29 @@
+// file system 모듈을 불러온다.
+const fs = require('fs'); 
+
+// fs모듈의 readFileSync 함수를 통해 동기적으로 해당 경로의 파일 전체를 읽어들인다.
+// 백준에서는 '/dev/stdin' 경로에 테스트 케이스 파일이 있다.
+// 읽어드린 정보는 toString()함수를 통해 문자열로 변환하여야 사용할 수 있다.
+// 입력 받은 문자열을 split() 함수를 통해 배열화한다. (split(' '), split('\n') 등)
+// 예) 2 3 입력시, inputData = ['2', '3']
+const inputData1 = fs.readFileSync('/dev/stdin').toString().split(' ');
+
+// options으로 인코딩을 string 자료형으로 넘기는 경우, toString을 할 필요없이 문자열 반환
+const inputData2 = fs.readFileSync(0, 'utf8').split(' ');
+ -> 두번째는 무슨 소리인지 모르겠으나... 위에로만 해도 통과됨...ㄷ
+
+
+ https://www.youtube.com/watch?v=myDEDaaOd30&t=315s 입력받는 방법
+
+
+ https://nyang-in.tistory.com/156 가장 도움많이됨
+
+ BOJ Fetch 확장프로그램 : ctrl + shift + p , BOJ치고 문제번호 입력하면 백준문제가 vscode에 뜸
+
+
+fs ? readline ?
+ https://pstudio411.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EB%B0%B1%EC%A4%80%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-nodejs-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0
+
+
+****
+str.trim() : 문자열 양 끝의 공백을 제거한 새로운 문자열을 반환한다. 다만, 원본 문자열에는 영향을 주지 않는다.
