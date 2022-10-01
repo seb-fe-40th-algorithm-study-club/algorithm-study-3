@@ -15,7 +15,7 @@ result += `${avg}\n`
 let mid = sortArr[Math.floor(n/2)]
 result += `${mid}\n`
 
-// 최빈값
+// 최빈값 (다른 코드 참고했습니다.)
 const map = new Map();
 let max = 1;
 for (let number of sortArr) {
